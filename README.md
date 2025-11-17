@@ -1,4 +1,3 @@
-
 ## Installation
 Make sure you have Python 3.10+ installed.
 
